@@ -8,7 +8,11 @@ var builder = WebApplication.CreateBuilder(args);
 var connection = builder.Configuration.GetConnectionString("DbConnection");
 builder.Services.AddDbContext<SpotifyDataContext>(options =>
     options.UseSqlServer(connection));
+
 builder.Services.AddScoped<IAlbumRepository, AlbumRepository>();
+builder.Services.AddScoped<IArtistRepository, ArtistRepository>();
+builder.Services.AddScoped<IGenreRepository, GenreRepository>();
+
 builder.Services.AddControllersWithViews();
 
 var app = builder.Build();
