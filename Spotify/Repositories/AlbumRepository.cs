@@ -14,7 +14,7 @@ public class AlbumRepository(SpotifyDataContext spotifyDataContext) : IAlbumRepo
         {
             Id = album.Id,
             Title = album.Title,
-            PhotoURL = album.PhotoUrl
+            PhotoUrl = album.PhotoUrl
         }).ToListAsync();
     }
 

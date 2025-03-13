@@ -1,4 +1,4 @@
-﻿@using Spotify.Dto.Artist
+﻿@using Spotify.Dto.ArtistVM
 
 @model List<GetAllArtistDto>
 
@@ -8,11 +8,18 @@
         <div class="col-md-4">
             <div class="card album-card">
                 <a asp-controller="Artist" asp-action="Details" asp-route-id="@artist.Id">
-                    <img src="https://avatars.yandex.net/get-music-content/5587254/4c9bd4b8.a.20509390-1/m1000x1000?webp=false" class="card-img-top" alt="@artist.Title">
+                    <img src="@artist.PhotoUrl" class="card-img-top" alt="@artist.Title">
                     <div class="card-body">
                         <h5 class="card-title">@artist.Title</h5>
                     </div>
                 </a>
+                <a asp-controller="Artist"
+                   asp-action="Delete"
+                   asp-route-id="@artist.Id">Удалить</a>
+
+                <a asp-controller="Artist"
+                   asp-action="Edit"
+                   asp-route-id="@artist.Id">Редактировать</a>
             </div>
         </div>
     }

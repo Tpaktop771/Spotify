@@ -14,8 +14,8 @@ public class AlbumController(IAlbumRepository albumRepository) : Controller
 
     public async Task<IActionResult> Details(int id)
     {
-        var detaildAlbum = await albumRepository.GetDetailsAsync(id);
+        var detailsdAlbum = await albumRepository.GetDetailsAsync(id);
 
-        return View(detaildAlbum);
+        return View(detailsdAlbum);
     }
 }

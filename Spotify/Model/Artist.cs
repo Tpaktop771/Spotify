@@ -6,5 +6,5 @@ public class Artist
     public required string Title { get; set; }
     public required string PhotoUrl { get; set; }
     public required Genre Genre { get; set; }
-    public required List<Album> Albums { get; set; }
+    public List<Album>? Albums { get; set; }
 }
