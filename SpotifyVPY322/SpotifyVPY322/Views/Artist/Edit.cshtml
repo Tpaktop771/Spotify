@@ -1,0 +1,23 @@
+﻿@using SpotifyVPY322.Dto.ArtistVM
+@using SpotifyVPY322.Model
+
+@model UpdateArtistVM
+
+<form asp-action="Edit">
+    <div>
+        <input type="hidden" asp-for="Id">
+    </div>
+    <div>
+        <label>Title: </label>
+        <input asp-for="Title">
+    </div>
+    <div>
+        <label>PhotoUrl: </label>
+        <input asp-for="PhotoUrl">
+    </div>
+    <div>
+        <label>Genre: </label>
+        <select asp-for="Genre" asp-items="Model.Genres"></select>
+    </div>
+    <input type="submit" value="Отредактировать" />
+</form>

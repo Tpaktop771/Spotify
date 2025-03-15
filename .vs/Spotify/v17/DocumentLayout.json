@@ -1,0 +1,576 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\HaLLI\\source\\repos\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CA7277B0-1F58-4777-8EF0-274D0DC106EE}|Spotify\\Spotify.csproj|c:\\users\\halli\\source\\repos\\spotify\\views\\artist\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CA7277B0-1F58-4777-8EF0-274D0DC106EE}|Spotify\\Spotify.csproj|solutionrelative:spotify\\views\\artist\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA7277B0-1F58-4777-8EF0-274D0DC106EE}|Spotify\\Spotify.csproj|c:\\users\\halli\\source\\repos\\spotify\\model\\artist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA7277B0-1F58-4777-8EF0-274D0DC106EE}|Spotify\\Spotify.csproj|solutionrelative:spotify\\model\\artist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA7277B0-1F58-4777-8EF0-274D0DC106EE}|Spotify\\Spotify.csproj|c:\\users\\halli\\source\\repos\\spotify\\controllers\\artistcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA7277B0-1F58-4777-8EF0-274D0DC106EE}|Spotify\\Spotify.csproj|solutionrelative:spotify\\controllers\\artistcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA7277B0-1F58-4777-8EF0-274D0DC106EE}|Spotify\\Spotify.csproj|c:\\users\\halli\\source\\repos\\spotify\\views\\artist\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CA7277B0-1F58-4777-8EF0-274D0DC106EE}|Spotify\\Spotify.csproj|solutionrelative:spotify\\views\\artist\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA7277B0-1F58-4777-8EF0-274D0DC106EE}|Spotify\\Spotify.csproj|c:\\users\\halli\\source\\repos\\spotify\\views\\albom\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CA7277B0-1F58-4777-8EF0-274D0DC106EE}|Spotify\\Spotify.csproj|solutionrelative:spotify\\views\\albom\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA7277B0-1F58-4777-8EF0-274D0DC106EE}|Spotify\\Spotify.csproj|c:\\users\\halli\\source\\repos\\spotify\\views\\artist\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CA7277B0-1F58-4777-8EF0-274D0DC106EE}|Spotify\\Spotify.csproj|solutionrelative:spotify\\views\\artist\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA7277B0-1F58-4777-8EF0-274D0DC106EE}|Spotify\\Spotify.csproj|c:\\users\\halli\\source\\repos\\spotify\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA7277B0-1F58-4777-8EF0-274D0DC106EE}|Spotify\\Spotify.csproj|solutionrelative:spotify\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA7277B0-1F58-4777-8EF0-274D0DC106EE}|Spotify\\Spotify.csproj|c:\\users\\halli\\source\\repos\\spotify\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{CA7277B0-1F58-4777-8EF0-274D0DC106EE}|Spotify\\Spotify.csproj|solutionrelative:spotify\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA7277B0-1F58-4777-8EF0-274D0DC106EE}|Spotify\\Spotify.csproj|c:\\users\\halli\\source\\repos\\spotify\\repositories\\artistrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA7277B0-1F58-4777-8EF0-274D0DC106EE}|Spotify\\Spotify.csproj|solutionrelative:spotify\\repositories\\artistrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA7277B0-1F58-4777-8EF0-274D0DC106EE}|Spotify\\Spotify.csproj|c:\\users\\halli\\source\\repos\\spotify\\repositories\\albumrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA7277B0-1F58-4777-8EF0-274D0DC106EE}|Spotify\\Spotify.csproj|solutionrelative:spotify\\repositories\\albumrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA7277B0-1F58-4777-8EF0-274D0DC106EE}|Spotify\\Spotify.csproj|c:\\users\\halli\\source\\repos\\spotify\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA7277B0-1F58-4777-8EF0-274D0DC106EE}|Spotify\\Spotify.csproj|solutionrelative:spotify\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA7277B0-1F58-4777-8EF0-274D0DC106EE}|Spotify\\Spotify.csproj|c:\\users\\halli\\source\\repos\\spotify\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CA7277B0-1F58-4777-8EF0-274D0DC106EE}|Spotify\\Spotify.csproj|solutionrelative:spotify\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA7277B0-1F58-4777-8EF0-274D0DC106EE}|Spotify\\Spotify.csproj|c:\\users\\halli\\source\\repos\\spotify\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CA7277B0-1F58-4777-8EF0-274D0DC106EE}|Spotify\\Spotify.csproj|solutionrelative:spotify\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA7277B0-1F58-4777-8EF0-274D0DC106EE}|Spotify\\Spotify.csproj|c:\\users\\halli\\source\\repos\\spotify\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CA7277B0-1F58-4777-8EF0-274D0DC106EE}|Spotify\\Spotify.csproj|solutionrelative:spotify\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA7277B0-1F58-4777-8EF0-274D0DC106EE}|Spotify\\Spotify.csproj|c:\\users\\halli\\source\\repos\\spotify\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CA7277B0-1F58-4777-8EF0-274D0DC106EE}|Spotify\\Spotify.csproj|solutionrelative:spotify\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA7277B0-1F58-4777-8EF0-274D0DC106EE}|Spotify\\Spotify.csproj|c:\\users\\halli\\source\\repos\\spotify\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CA7277B0-1F58-4777-8EF0-274D0DC106EE}|Spotify\\Spotify.csproj|solutionrelative:spotify\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA7277B0-1F58-4777-8EF0-274D0DC106EE}|Spotify\\Spotify.csproj|c:\\users\\halli\\source\\repos\\spotify\\views\\artist\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CA7277B0-1F58-4777-8EF0-274D0DC106EE}|Spotify\\Spotify.csproj|solutionrelative:spotify\\views\\artist\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA7277B0-1F58-4777-8EF0-274D0DC106EE}|Spotify\\Spotify.csproj|c:\\users\\halli\\source\\repos\\spotify\\views\\albom\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CA7277B0-1F58-4777-8EF0-274D0DC106EE}|Spotify\\Spotify.csproj|solutionrelative:spotify\\views\\albom\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA7277B0-1F58-4777-8EF0-274D0DC106EE}|Spotify\\Spotify.csproj|c:\\users\\halli\\source\\repos\\spotify\\repositories\\genrerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA7277B0-1F58-4777-8EF0-274D0DC106EE}|Spotify\\Spotify.csproj|solutionrelative:spotify\\repositories\\genrerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA7277B0-1F58-4777-8EF0-274D0DC106EE}|Spotify\\Spotify.csproj|c:\\users\\halli\\source\\repos\\spotify\\repositories\\interfaces\\igenrerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA7277B0-1F58-4777-8EF0-274D0DC106EE}|Spotify\\Spotify.csproj|solutionrelative:spotify\\repositories\\interfaces\\igenrerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA7277B0-1F58-4777-8EF0-274D0DC106EE}|Spotify\\Spotify.csproj|c:\\users\\halli\\source\\repos\\spotify\\repositories\\interfaces\\iartistrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA7277B0-1F58-4777-8EF0-274D0DC106EE}|Spotify\\Spotify.csproj|solutionrelative:spotify\\repositories\\interfaces\\iartistrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA7277B0-1F58-4777-8EF0-274D0DC106EE}|Spotify\\Spotify.csproj|c:\\users\\halli\\source\\repos\\spotify\\repositories\\interfaces\\ialbumrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA7277B0-1F58-4777-8EF0-274D0DC106EE}|Spotify\\Spotify.csproj|solutionrelative:spotify\\repositories\\interfaces\\ialbumrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA7277B0-1F58-4777-8EF0-274D0DC106EE}|Spotify\\Spotify.csproj|c:\\users\\halli\\source\\repos\\spotify\\model\\song.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA7277B0-1F58-4777-8EF0-274D0DC106EE}|Spotify\\Spotify.csproj|solutionrelative:spotify\\model\\song.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA7277B0-1F58-4777-8EF0-274D0DC106EE}|Spotify\\Spotify.csproj|c:\\users\\halli\\source\\repos\\spotify\\model\\genre.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA7277B0-1F58-4777-8EF0-274D0DC106EE}|Spotify\\Spotify.csproj|solutionrelative:spotify\\model\\genre.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA7277B0-1F58-4777-8EF0-274D0DC106EE}|Spotify\\Spotify.csproj|c:\\users\\halli\\source\\repos\\spotify\\model\\album.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA7277B0-1F58-4777-8EF0-274D0DC106EE}|Spotify\\Spotify.csproj|solutionrelative:spotify\\model\\album.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA7277B0-1F58-4777-8EF0-274D0DC106EE}|Spotify\\Spotify.csproj|c:\\users\\halli\\source\\repos\\spotify\\migrations\\spotifydatacontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA7277B0-1F58-4777-8EF0-274D0DC106EE}|Spotify\\Spotify.csproj|solutionrelative:spotify\\migrations\\spotifydatacontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA7277B0-1F58-4777-8EF0-274D0DC106EE}|Spotify\\Spotify.csproj|c:\\users\\halli\\source\\repos\\spotify\\migrations\\20250220140154_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA7277B0-1F58-4777-8EF0-274D0DC106EE}|Spotify\\Spotify.csproj|solutionrelative:spotify\\migrations\\20250220140154_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA7277B0-1F58-4777-8EF0-274D0DC106EE}|Spotify\\Spotify.csproj|c:\\users\\halli\\source\\repos\\spotify\\dto\\artistvm\\updateartistvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA7277B0-1F58-4777-8EF0-274D0DC106EE}|Spotify\\Spotify.csproj|solutionrelative:spotify\\dto\\artistvm\\updateartistvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA7277B0-1F58-4777-8EF0-274D0DC106EE}|Spotify\\Spotify.csproj|c:\\users\\halli\\source\\repos\\spotify\\dto\\artistvm\\getallartistdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA7277B0-1F58-4777-8EF0-274D0DC106EE}|Spotify\\Spotify.csproj|solutionrelative:spotify\\dto\\artistvm\\getallartistdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA7277B0-1F58-4777-8EF0-274D0DC106EE}|Spotify\\Spotify.csproj|c:\\users\\halli\\source\\repos\\spotify\\dto\\artistvm\\createartistvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA7277B0-1F58-4777-8EF0-274D0DC106EE}|Spotify\\Spotify.csproj|solutionrelative:spotify\\dto\\artistvm\\createartistvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA7277B0-1F58-4777-8EF0-274D0DC106EE}|Spotify\\Spotify.csproj|c:\\users\\halli\\source\\repos\\spotify\\dto\\album\\getallalbumdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA7277B0-1F58-4777-8EF0-274D0DC106EE}|Spotify\\Spotify.csproj|solutionrelative:spotify\\dto\\album\\getallalbumdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA7277B0-1F58-4777-8EF0-274D0DC106EE}|Spotify\\Spotify.csproj|c:\\users\\halli\\source\\repos\\spotify\\data\\spotifydatacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA7277B0-1F58-4777-8EF0-274D0DC106EE}|Spotify\\Spotify.csproj|solutionrelative:spotify\\data\\spotifydatacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA7277B0-1F58-4777-8EF0-274D0DC106EE}|Spotify\\Spotify.csproj|c:\\users\\halli\\source\\repos\\spotify\\controllers\\albumcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA7277B0-1F58-4777-8EF0-274D0DC106EE}|Spotify\\Spotify.csproj|solutionrelative:spotify\\controllers\\albumcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA7277B0-1F58-4777-8EF0-274D0DC106EE}|Spotify\\Spotify.csproj|c:\\users\\halli\\source\\repos\\spotify\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{CA7277B0-1F58-4777-8EF0-274D0DC106EE}|Spotify\\Spotify.csproj|solutionrelative:spotify\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "SpotifyDataContextModelSnapshot.cs",
+              "DocumentMoniker": "C:\\Users\\HaLLI\\source\\repos\\Spotify\\Migrations\\SpotifyDataContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "Spotify\\Migrations\\SpotifyDataContextModelSnapshot.cs",
+              "ToolTip": "C:\\Users\\HaLLI\\source\\repos\\Spotify\\Migrations\\SpotifyDataContextModelSnapshot.cs",
+              "RelativeToolTip": "Spotify\\Migrations\\SpotifyDataContextModelSnapshot.cs",
+              "ViewState": "AgIAAKUAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-13T10:48:03.612Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\HaLLI\\source\\repos\\Spotify\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Spotify\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\HaLLI\\source\\repos\\Spotify\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Spotify\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-13T10:42:51.908Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "_ValidationScriptsPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\HaLLI\\source\\repos\\Spotify\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeDocumentMoniker": "Spotify\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ToolTip": "C:\\Users\\HaLLI\\source\\repos\\Spotify\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeToolTip": "Spotify\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-13T10:38:59.47Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\HaLLI\\source\\repos\\Spotify\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Spotify\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\HaLLI\\source\\repos\\Spotify\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Spotify\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-13T10:37:55.914Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\HaLLI\\source\\repos\\Spotify\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Spotify\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\HaLLI\\source\\repos\\Spotify\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Spotify\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-13T09:54:06.253Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\HaLLI\\source\\repos\\Spotify\\Views\\Artist\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Spotify\\Views\\Artist\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\HaLLI\\source\\repos\\Spotify\\Views\\Artist\\Edit.cshtml",
+              "RelativeToolTip": "Spotify\\Views\\Artist\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-13T09:53:28.026Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\HaLLI\\source\\repos\\Spotify\\Views\\Artist\\Details.cshtml",
+              "RelativeDocumentMoniker": "Spotify\\Views\\Artist\\Details.cshtml",
+              "ToolTip": "C:\\Users\\HaLLI\\source\\repos\\Spotify\\Views\\Artist\\Details.cshtml",
+              "RelativeToolTip": "Spotify\\Views\\Artist\\Details.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-13T09:52:47.01Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\HaLLI\\source\\repos\\Spotify\\Views\\Artist\\Create.cshtml",
+              "RelativeDocumentMoniker": "Spotify\\Views\\Artist\\Create.cshtml",
+              "ToolTip": "C:\\Users\\HaLLI\\source\\repos\\Spotify\\Views\\Artist\\Create.cshtml",
+              "RelativeToolTip": "Spotify\\Views\\Artist\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-13T09:51:59.257Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "GenreRepository.cs",
+              "DocumentMoniker": "C:\\Users\\HaLLI\\source\\repos\\Spotify\\Repositories\\GenreRepository.cs",
+              "RelativeDocumentMoniker": "Spotify\\Repositories\\GenreRepository.cs",
+              "ToolTip": "C:\\Users\\HaLLI\\source\\repos\\Spotify\\Repositories\\GenreRepository.cs",
+              "RelativeToolTip": "Spotify\\Repositories\\GenreRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-13T09:49:26.277Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "IGenreRepository.cs",
+              "DocumentMoniker": "C:\\Users\\HaLLI\\source\\repos\\Spotify\\Repositories\\Interfaces\\IGenreRepository.cs",
+              "RelativeDocumentMoniker": "Spotify\\Repositories\\Interfaces\\IGenreRepository.cs",
+              "ToolTip": "C:\\Users\\HaLLI\\source\\repos\\Spotify\\Repositories\\Interfaces\\IGenreRepository.cs",
+              "RelativeToolTip": "Spotify\\Repositories\\Interfaces\\IGenreRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-13T09:47:28.868Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "UpdateArtistVM.cs",
+              "DocumentMoniker": "C:\\Users\\HaLLI\\source\\repos\\Spotify\\Dto\\ArtistVM\\UpdateArtistVM.cs",
+              "RelativeDocumentMoniker": "Spotify\\Dto\\ArtistVM\\UpdateArtistVM.cs",
+              "ToolTip": "C:\\Users\\HaLLI\\source\\repos\\Spotify\\Dto\\ArtistVM\\UpdateArtistVM.cs",
+              "RelativeToolTip": "Spotify\\Dto\\ArtistVM\\UpdateArtistVM.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-13T09:43:59.307Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "CreateArtistVM.cs",
+              "DocumentMoniker": "C:\\Users\\HaLLI\\source\\repos\\Spotify\\Dto\\ArtistVM\\CreateArtistVM.cs",
+              "RelativeDocumentMoniker": "Spotify\\Dto\\ArtistVM\\CreateArtistVM.cs",
+              "ToolTip": "C:\\Users\\HaLLI\\source\\repos\\Spotify\\Dto\\ArtistVM\\CreateArtistVM.cs",
+              "RelativeToolTip": "Spotify\\Dto\\ArtistVM\\CreateArtistVM.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-13T09:43:05.155Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\HaLLI\\source\\repos\\Spotify\\appsettings.json",
+              "RelativeDocumentMoniker": "Spotify\\appsettings.json",
+              "ToolTip": "C:\\Users\\HaLLI\\source\\repos\\Spotify\\appsettings.json",
+              "RelativeToolTip": "Spotify\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-02-21T17:41:37.534Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\HaLLI\\source\\repos\\Spotify\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "Spotify\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\HaLLI\\source\\repos\\Spotify\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "Spotify\\Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-21T17:41:32.977Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\HaLLI\\source\\repos\\Spotify\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "Spotify\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\HaLLI\\source\\repos\\Spotify\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "Spotify\\Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-21T17:39:38.191Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\HaLLI\\source\\repos\\Spotify\\Views\\Artist\\Index.cshtml",
+              "RelativeDocumentMoniker": "Spotify\\Views\\Artist\\Index.cshtml",
+              "ToolTip": "C:\\Users\\HaLLI\\source\\repos\\Spotify\\Views\\Artist\\Index.cshtml",
+              "RelativeToolTip": "Spotify\\Views\\Artist\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-21T17:39:50.868Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\HaLLI\\source\\repos\\Spotify\\Views\\Albom\\Index.cshtml",
+              "RelativeDocumentMoniker": "Spotify\\Views\\Albom\\Index.cshtml",
+              "ToolTip": "C:\\Users\\HaLLI\\source\\repos\\Spotify\\Views\\Albom\\Index.cshtml",
+              "RelativeToolTip": "Spotify\\Views\\Albom\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-21T17:38:44.565Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ArtistRepository.cs",
+              "DocumentMoniker": "C:\\Users\\HaLLI\\source\\repos\\Spotify\\Repositories\\ArtistRepository.cs",
+              "RelativeDocumentMoniker": "Spotify\\Repositories\\ArtistRepository.cs",
+              "ToolTip": "C:\\Users\\HaLLI\\source\\repos\\Spotify\\Repositories\\ArtistRepository.cs",
+              "RelativeToolTip": "Spotify\\Repositories\\ArtistRepository.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAewB0AAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-21T17:37:00Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "IArtistRepository.cs",
+              "DocumentMoniker": "C:\\Users\\HaLLI\\source\\repos\\Spotify\\Repositories\\Interfaces\\IArtistRepository.cs",
+              "RelativeDocumentMoniker": "Spotify\\Repositories\\Interfaces\\IArtistRepository.cs",
+              "ToolTip": "C:\\Users\\HaLLI\\source\\repos\\Spotify\\Repositories\\Interfaces\\IArtistRepository.cs",
+              "RelativeToolTip": "Spotify\\Repositories\\Interfaces\\IArtistRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-21T17:33:55.198Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Song.cs",
+              "DocumentMoniker": "C:\\Users\\HaLLI\\source\\repos\\Spotify\\Model\\Song.cs",
+              "RelativeDocumentMoniker": "Spotify\\Model\\Song.cs",
+              "ToolTip": "C:\\Users\\HaLLI\\source\\repos\\Spotify\\Model\\Song.cs",
+              "RelativeToolTip": "Spotify\\Model\\Song.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-21T17:33:02.139Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "GetAllArtistDto.cs",
+              "DocumentMoniker": "C:\\Users\\HaLLI\\source\\repos\\Spotify\\Dto\\ArtistVM\\GetAllArtistDto.cs",
+              "RelativeDocumentMoniker": "Spotify\\Dto\\ArtistVM\\GetAllArtistDto.cs",
+              "ToolTip": "C:\\Users\\HaLLI\\source\\repos\\Spotify\\Dto\\ArtistVM\\GetAllArtistDto.cs",
+              "RelativeToolTip": "Spotify\\Dto\\ArtistVM\\GetAllArtistDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-21T17:31:45.257Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ArtistController.cs",
+              "DocumentMoniker": "C:\\Users\\HaLLI\\source\\repos\\Spotify\\Controllers\\ArtistController.cs",
+              "RelativeDocumentMoniker": "Spotify\\Controllers\\ArtistController.cs",
+              "ToolTip": "C:\\Users\\HaLLI\\source\\repos\\Spotify\\Controllers\\ArtistController.cs",
+              "RelativeToolTip": "Spotify\\Controllers\\ArtistController.cs",
+              "ViewState": "AgIAACoAAAAAAAAAAAAAAIUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-21T17:28:19.599Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\HaLLI\\source\\repos\\Spotify\\Views\\Albom\\Details.cshtml",
+              "RelativeDocumentMoniker": "Spotify\\Views\\Albom\\Details.cshtml",
+              "ToolTip": "C:\\Users\\HaLLI\\source\\repos\\Spotify\\Views\\Albom\\Details.cshtml",
+              "RelativeToolTip": "Spotify\\Views\\Albom\\Details.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACQAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-20T17:36:23.535Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "AlbumController.cs",
+              "DocumentMoniker": "C:\\Users\\HaLLI\\source\\repos\\Spotify\\Controllers\\AlbumController.cs",
+              "RelativeDocumentMoniker": "Spotify\\Controllers\\AlbumController.cs",
+              "ToolTip": "C:\\Users\\HaLLI\\source\\repos\\Spotify\\Controllers\\AlbumController.cs",
+              "RelativeToolTip": "Spotify\\Controllers\\AlbumController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-20T16:53:11.022Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Genre.cs",
+              "DocumentMoniker": "C:\\Users\\HaLLI\\source\\repos\\Spotify\\Model\\Genre.cs",
+              "RelativeDocumentMoniker": "Spotify\\Model\\Genre.cs",
+              "ToolTip": "C:\\Users\\HaLLI\\source\\repos\\Spotify\\Model\\Genre.cs",
+              "RelativeToolTip": "Spotify\\Model\\Genre.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-20T16:00:11.794Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Artist.cs",
+              "DocumentMoniker": "C:\\Users\\HaLLI\\source\\repos\\Spotify\\Model\\Artist.cs",
+              "RelativeDocumentMoniker": "Spotify\\Model\\Artist.cs",
+              "ToolTip": "C:\\Users\\HaLLI\\source\\repos\\Spotify\\Model\\Artist.cs",
+              "RelativeToolTip": "Spotify\\Model\\Artist.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-20T15:52:14.482Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "20250220140154_Init.cs",
+              "DocumentMoniker": "C:\\Users\\HaLLI\\source\\repos\\Spotify\\Migrations\\20250220140154_Init.cs",
+              "RelativeDocumentMoniker": "Spotify\\Migrations\\20250220140154_Init.cs",
+              "ToolTip": "C:\\Users\\HaLLI\\source\\repos\\Spotify\\Migrations\\20250220140154_Init.cs",
+              "RelativeToolTip": "Spotify\\Migrations\\20250220140154_Init.cs",
+              "ViewState": "AgIAAHgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-20T14:01:54.942Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\HaLLI\\source\\repos\\Spotify\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Spotify\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\HaLLI\\source\\repos\\Spotify\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Spotify\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-20T13:46:26.81Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Album.cs",
+              "DocumentMoniker": "C:\\Users\\HaLLI\\source\\repos\\Spotify\\Model\\Album.cs",
+              "RelativeDocumentMoniker": "Spotify\\Model\\Album.cs",
+              "ToolTip": "C:\\Users\\HaLLI\\source\\repos\\Spotify\\Model\\Album.cs",
+              "RelativeToolTip": "Spotify\\Model\\Album.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-20T13:42:22.576Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "GetAllAlbumDto.cs",
+              "DocumentMoniker": "C:\\Users\\HaLLI\\source\\repos\\Spotify\\Dto\\Album\\GetAllAlbumDto.cs",
+              "RelativeDocumentMoniker": "Spotify\\Dto\\Album\\GetAllAlbumDto.cs",
+              "ToolTip": "C:\\Users\\HaLLI\\source\\repos\\Spotify\\Dto\\Album\\GetAllAlbumDto.cs",
+              "RelativeToolTip": "Spotify\\Dto\\Album\\GetAllAlbumDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-20T13:41:57.924Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "SpotifyDataContext.cs",
+              "DocumentMoniker": "C:\\Users\\HaLLI\\source\\repos\\Spotify\\Data\\SpotifyDataContext.cs",
+              "RelativeDocumentMoniker": "Spotify\\Data\\SpotifyDataContext.cs",
+              "ToolTip": "C:\\Users\\HaLLI\\source\\repos\\Spotify\\Data\\SpotifyDataContext.cs",
+              "RelativeToolTip": "Spotify\\Data\\SpotifyDataContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-20T13:36:08.521Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AlbumRepository.cs",
+              "DocumentMoniker": "C:\\Users\\HaLLI\\source\\repos\\Spotify\\Repositories\\AlbumRepository.cs",
+              "RelativeDocumentMoniker": "Spotify\\Repositories\\AlbumRepository.cs",
+              "ToolTip": "C:\\Users\\HaLLI\\source\\repos\\Spotify\\Repositories\\AlbumRepository.cs",
+              "RelativeToolTip": "Spotify\\Repositories\\AlbumRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-20T13:34:07.647Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "IAlbumRepository.cs",
+              "DocumentMoniker": "C:\\Users\\HaLLI\\source\\repos\\Spotify\\Repositories\\Interfaces\\IAlbumRepository.cs",
+              "RelativeDocumentMoniker": "Spotify\\Repositories\\Interfaces\\IAlbumRepository.cs",
+              "ToolTip": "C:\\Users\\HaLLI\\source\\repos\\Spotify\\Repositories\\Interfaces\\IAlbumRepository.cs",
+              "RelativeToolTip": "Spotify\\Repositories\\Interfaces\\IAlbumRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-20T13:31:29.26Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\HaLLI\\source\\repos\\Spotify\\Program.cs",
+              "RelativeDocumentMoniker": "Spotify\\Program.cs",
+              "ToolTip": "C:\\Users\\HaLLI\\source\\repos\\Spotify\\Program.cs",
+              "RelativeToolTip": "Spotify\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-20T13:28:11.33Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
