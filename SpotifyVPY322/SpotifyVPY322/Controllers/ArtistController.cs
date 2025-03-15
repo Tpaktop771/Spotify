@@ -2,7 +2,7 @@
 using Microsoft.AspNetCore.Mvc.Rendering;
 using Spotify.Dto.ArtistVM;
 using Spotify.Repositories.Interfaces;
-using SpotifyVPY322.Model;
+using Spotify.Model;
 
 namespace Spotify.Controllers;
 
