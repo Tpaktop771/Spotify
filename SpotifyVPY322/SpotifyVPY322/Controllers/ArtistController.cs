@@ -1,10 +1,10 @@
 ﻿using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.Rendering;
-using SpotifyVPY322.Dto.ArtistVM;
+using Spotify.Dto.ArtistVM;
+using Spotify.Repositories.Interfaces;
 using SpotifyVPY322.Model;
-using SpotifyVPY322.Repositories.Interfaces;
 
-namespace SpotifyVPY322.Controllers;
+namespace Spotify.Controllers;
 
 public class ArtistController : Controller
 {

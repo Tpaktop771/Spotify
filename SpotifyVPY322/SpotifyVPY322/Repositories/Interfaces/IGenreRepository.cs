@@ -1,6 +1,6 @@
-﻿using SpotifyVPY322.Model;
+﻿using Spotify.Model;
 
-namespace SpotifyVPY322.Repositories.Interfaces;
+namespace Spotify.Repositories.Interfaces;
 
 public interface IGenreRepository
 {

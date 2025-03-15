@@ -1,7 +1,7 @@
 ﻿using Microsoft.EntityFrameworkCore;
-using SpotifyVPY322.Model;
+using Spotify.Model;
 
-namespace SpotifyVPY322.Data;
+namespace Spotify.Data;
 
 public class SpotifyDataContext(DbContextOptions<SpotifyDataContext> options) : DbContext(options)
 {

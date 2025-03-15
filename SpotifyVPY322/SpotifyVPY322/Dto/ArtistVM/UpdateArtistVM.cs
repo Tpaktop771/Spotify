@@ -1,6 +1,6 @@
 ﻿using Microsoft.AspNetCore.Mvc.Rendering;
 
-namespace SpotifyVPY322.Dto.ArtistVM;
+namespace Spotify.Dto.ArtistVM;
 
 public class UpdateArtistVM
 {

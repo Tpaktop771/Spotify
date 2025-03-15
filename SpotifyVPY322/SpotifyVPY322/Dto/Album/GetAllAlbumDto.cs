@@ -1,4 +1,4 @@
-﻿namespace SpotifyVPY322.Dto.Album;
+﻿namespace Spotify.Dto.Album;
 
 public class GetAllAlbumDto
 {

@@ -1,7 +1,7 @@
 ﻿using Microsoft.AspNetCore.Mvc;
-using SpotifyVPY322.Repositories.Interfaces;
+using Spotify.Repositories.Interfaces;
 
-namespace SpotifyVPY322.Controllers;
+namespace Spotify.Controllers;
 
 public class AlbumController(IAlbumRepository albumRepository) : Controller
 {

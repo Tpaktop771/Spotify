@@ -1,6 +1,6 @@
 ﻿using Microsoft.AspNetCore.Mvc;
 
-namespace SpotifyVPY322.Controllers;
+namespace Spotify.Controllers;
 
 public class HomeController : Controller
 {

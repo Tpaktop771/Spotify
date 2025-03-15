@@ -1,10 +1,10 @@
 ﻿using Microsoft.EntityFrameworkCore;
-using SpotifyVPY322.Data;
-using SpotifyVPY322.Dto.Album;
-using SpotifyVPY322.Model;
-using SpotifyVPY322.Repositories.Interfaces;
+using Spotify.Data;
+using Spotify.Dto.Album;
+using Spotify.Model;
+using Spotify.Repositories.Interfaces;
 
-namespace SpotifyVPY322.Repositories;
+namespace Spotify.Repositories;
 
 public class AlbumRepository(SpotifyDataContext spotifyDataContext) : IAlbumRepository
 {

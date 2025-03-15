@@ -1,7 +1,7 @@
 using Microsoft.EntityFrameworkCore;
-using SpotifyVPY322.Data;
-using SpotifyVPY322.Repositories;
-using SpotifyVPY322.Repositories.Interfaces;
+using Spotify.Data;
+using Spotify.Repositories;
+using Spotify.Repositories.Interfaces;
 
 var builder = WebApplication.CreateBuilder(args);
 

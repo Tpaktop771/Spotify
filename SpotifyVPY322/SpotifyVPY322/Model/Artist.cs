@@ -1,4 +1,4 @@
-﻿namespace SpotifyVPY322.Model;
+﻿namespace Spotify.Model;
 
 public class Artist
 {

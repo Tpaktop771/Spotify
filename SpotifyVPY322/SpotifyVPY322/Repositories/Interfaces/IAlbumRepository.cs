@@ -1,7 +1,7 @@
-﻿using SpotifyVPY322.Dto.Album;
-using SpotifyVPY322.Model;
+﻿using Spotify.Dto.Album;
+using Spotify.Model;
 
-namespace SpotifyVPY322.Repositories.Interfaces;
+namespace Spotify.Repositories.Interfaces;
 
 public interface IAlbumRepository
 {

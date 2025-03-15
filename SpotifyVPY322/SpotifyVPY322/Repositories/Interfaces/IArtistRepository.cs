@@ -1,8 +1,8 @@
-﻿using SpotifyVPY322.Dto.ArtistVM;
-using SpotifyVPY322.Model;
+﻿using Spotify.Dto.ArtistVM;
+using Spotify.Model;
 using System.Collections;
 
-namespace SpotifyVPY322.Repositories.Interfaces;
+namespace Spotify.Repositories.Interfaces;
 
 public interface IArtistRepository
 {
