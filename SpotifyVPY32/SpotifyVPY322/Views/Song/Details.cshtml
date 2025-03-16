@@ -1,0 +1,13 @@
+﻿@using SpotifyVPY322.Model
+@model Song
+
+@if (Model is not null)
+{
+    <div class="card">
+        <div class="card-body">
+            <h5 class="card-title">@Model.Title</h5>
+            <p class="card-text">Альбом: @Model.Album.Title</p>
+            <audio controls src="@Model.SongUrl"></audio>
+        </div>
+    </div>
+}

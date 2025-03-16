@@ -1,0 +1,27 @@
+﻿
+@using SpotifyVPY322.Dto.ArtistVM
+
+@model List<GetAllArtistDto>
+
+<div class="row">
+    @foreach (var artist in Model)
+    {
+        <div class="col-md-4">
+            <div class="card album-card">
+                <a asp-controller="Artist" asp-action="Details" asp-route-id="@artist.Id">
+                    <img src="@artist.PhotoUrl" class="card-img-top" alt="@artist.Title">
+                    <div class="card-body">
+                        <h5 class="card-title">@artist.Title</h5>
+                    </div>
+                </a>
+                <a asp-controller="Artist"
+                   asp-action="Delete"
+                   asp-route-id="@artist.Id">Удалить</a>
+
+                <a asp-controller="Artist"
+                   asp-action="Edit"
+                   asp-route-id="@artist.Id">Редактировать</a>
+            </div>
+        </div>
+    }
+</div>

@@ -1,0 +1,25 @@
+﻿@using SpotifyVPY322.Dto.SongVM
+@model List<GetAllSongDto>
+
+<h2>Список песен</h2>
+<a asp-action="Create" class="btn btn-primary">Добавить песню</a>
+<hr />
+
+<div class="row">
+    @foreach (var song in Model)
+    {
+        <div class="col-md-4">
+            <div class="card song-card">
+                <div class="card-body">
+                    <h5 class="card-title">@song.Title</h5>
+                    <p class="card-text">Альбом: @song.AlbumTitle</p>
+                    <audio controls src="@song.SongUrl"></audio>
+                </div>
+                <div class="card-footer">
+                    <a asp-action="Edit" asp-route-id="@song.Id" class="btn btn-warning">Редактировать</a>
+                    <a asp-action="Delete" asp-route-id="@song.Id" class="btn btn-danger">Удалить</a>
+                </div>
+            </div>
+        </div>
+    }
+</div>

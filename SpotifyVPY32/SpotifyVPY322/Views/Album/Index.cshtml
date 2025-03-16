@@ -1,0 +1,25 @@
+﻿@using SpotifyVPY322.Dto.AlbumVM
+
+@model List<GetAllAlbumDto>
+
+<h2>Список альбомов</h2>
+<a asp-action="Create" class="btn btn-primary">Добавить альбом</a>
+<hr />
+
+<div class="row">
+    @foreach (var album in Model)
+    {
+        <div class="col-md-4">
+            <div class="card album-card">
+                <a asp-action="Details" asp-route-id="@album.Id">
+                    <img src="@album.PhotoUrl" class="card-img-top" alt="@album.Title">
+                    <div class="card-body">
+                        <h5 class="card-title">@album.Title</h5>
+                    </div>
+                </a>
+                <a asp-action="Edit" asp-route-id="@album.Id" class="btn btn-warning">Редактировать</a>
+                <a asp-action="Delete" asp-route-id="@album.Id" class="btn btn-danger">Удалить</a>
+            </div>
+        </div>
+    }
+</div>

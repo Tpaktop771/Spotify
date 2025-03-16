@@ -1,0 +1,23 @@
+﻿@using SpotifyVPY322.Dto.SongVM
+@model UpdateSongVM
+
+<form asp-action="Edit">
+    <div>
+        <input type="hidden" asp-for="Id" />
+    </div>
+    <div>
+        <label>Название песни: </label>
+        <input asp-for="Title" class="form-control" required />
+    </div>
+    <div>
+        <label>Ссылка на песню: </label>
+        <input asp-for="SongUrl" class="form-control" required />
+    </div>
+    <div>
+        <label>Альбом: </label>
+        <select asp-for="AlbumId" asp-items="Model.Albums" class="form-control" required>
+            <option value="">Выберите альбом</option>
+        </select>
+    </div>
+    <input type="submit" value="Сохранить изменения" class="btn btn-primary" />
+</form>

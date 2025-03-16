@@ -1,0 +1,30 @@
+﻿@using SpotifyVPY322.Model
+@using Microsoft.AspNetCore.Mvc.Rendering
+
+@model CreateAlbumVM
+
+<form asp-action="Create">
+    <div>
+        <label>Title: </label>
+        <input asp-for="Title" class="form-control" required />
+    </div>
+    <div>
+        <label>PhotoUrl: </label>
+        <input asp-for="PhotoUrl" class="form-control" required />
+    </div>
+    <div>
+        <label>Release Date: </label>
+        <input asp-for="ReleaseDate" type="date" class="form-control" required />
+    </div>
+    <div>
+        <label>Artist: </label>
+        <select asp-for="ArtistId" asp-items="Model.Artists" class="form-control" required>
+            <option value="">Select Artist</option>
+            @foreach (var artist in Model.Artists)
+            {
+                <option value="@artist.Value">@artist.Text</option>
+            }
+        </select>
+    </div>
+    <input type="submit" value="Добавить альбом" class="btn btn-primary" />
+</form>
